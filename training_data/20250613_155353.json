@@ -1,0 +1,126 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "NAME: Jayesh Krishna\nEMAIL: 210020058@iitb.ac.in\nPHONE: 91)8291174256\n\nFULL RESUME:\nJayesh Krishna Prasad 210020058\nChemical Engineering (B.Tech.) Gender: Male\nIndian Institute of Technology Bombay DOB: 18/06/2003\nEmail: 210020058@iitb.ac.in Contact: (+91)8291174256\nExamination University Institute Year CPI / %\nGraduation IIT Bombay IIT Bombay 2025 8.96\nPROFESSIONAL EXPERIENCE\nZENNiX | Product Intern [Feb’24-March’24]\n Spearheaded market research, identified top-tier manufacturers, resulting in a 20% increase in product quality assurance\n Identified over 60 trending products and furnished detailed reports that led to increase in the selection efficiency by 2%\n Optimized e-commerce product selection leading to 5% reduction in time-to-market and a 7% decrease in sourcing costs\nOIL AND NATURAL GAS CORPORATION LTD. | Process Engineer [Dec’23-Jan’24]\n Evaluated the application of Predictive Analysis-based maintenance solutions and monitored sensors to identify faults\n Conducted on-site visits, ensured zero false negatives and achieved a 75%+ accuracy in Root Cause Failure Analysis\n Proposed measures to enhance operational efficiency and prepared detailed report on the key performance indicators\nZIGSAW | Business Development Intern [Dec’22-Jan’23]\n Partnered closely with the founder’s office for business planning resulting in notable 20% increase in conversion rates\n Participated in team meetings, contributed innovative ideas and strategic insights that generated a 7% growth trajectory\n Implemented market research within lead generation processes, facilitating a 3% expansion in the company’s client base\nPOSITIONS OF RESPONSIBILITY\nOVERALL COORDINATOR | Department Academic Mentorship Program, IIT Bombay [Mar’24-Present]\nHeading the Student Mentor Program for the Department of Chemical Engineering\n Handpicked a team of 45 student mentors from 120+ applicants based on SOPs, extensive interviews and peer reviews\n Spearheading a 3-tier team and representing 800+ students in the Department UG Committee to address their concerns\n Appointed by the HoD to the DUGC senate, influencing policy and curriculum development as the student representative\nSTUDENT MENTOR | Student Mentorship Program, IIT Bombay [May’23-Present]\nSelected amongst 43 out of 110+ applicants based on extensive interviews and peer reviews\n Mentoring 6 sophomores, maintaining departmental resources, research blogs and promoting student-faculty interaction\nKEY PROJECTS\nSTOCK MARKET ANALYSIS | Fin-Search | Finance Club [July’23-Aug’23]\n Examined factors behind the Vodafone-Idea merger decline, and identified causes that led to a loss in the market share\n Assessed Spice Jet's revival from bankruptcy and examined Facebook's acquisitions and their impact on the valuations\nTECHNICAL V/S FUNDAMENTAL ANALYSIS | Fin-Search | Finance Club [June’22-July’22]\n Examined the profitability of technical and fundamental analysis on the stock price of JSW Steel in different timezones\n Concluded the stock price to be undervalued with a discount of 7.4% by estimating the intrinsic value using DCF analysis\nML BASED SCREENING OF ALLOY CATALYSTS | Guide: Prof. Ojus Mohan [Aug’23-Present]\n Developing a novel ML algorithm to enhance high-entropy alloy catalysts for selective CO2 hydrogenation to methanol\n Performing data analysis, multiscale modeling, feature engineering, and micro-kinetics to enhance catalyst prediction\nSUPPLY CHAIN OPTIMISATION THROUGH ML MODELS | Seasons of Code [Dec’23-Present]\n Applied ML and advanced Pyomo models to optimize key supply chain sectors and achieved substantial cost reduction\n Solved intricate optimization problems, improved supply chain performance in all 4 modes of transport of raw material\nIMAGE CARTOONIFIER | Seasons of Code [May’23-July’23]\n Implemented TensorFlow and Keras for neural network, applied ML algorithms for image processing with OpenCV/GIMP\nSCHOLASTIC ACHIEVEMENTS\n Attained 98.6 percentile in JEE Advanced among 0.15M+ and 99.66 percentile in JEE Main out of 1.2M+ applicants [‘21]\n Secured 2nd rank by presenting development alternatives on \"Make in India\" at Indian Institute of Geomagnetism [‘19]\nEXTRA-CURRICULAR ACTIVITIES\nCertifications  Accounting fundamentals | CFI • Introduction to Corporate Finance | Coursera\n Built a DCF model to predict BMW's 5-year financial reports using available accounting statements\nSports  Represented Zone Gujarat & Maharashtra, securing 1st rank in Inter School Chess Nationals, 2017\n Part of the Inter-IIT Chess team of IIT Bombay and attended camp trials for Tennis and Football\nTechnical  HTML, C++, Python, MATLAB, Excel, Powerpoint, Word, VASP, Fortran, AutoCAD, OpenFOAM\nMiscellaneous  Led a team of 4 in providing ingenious solutions to Thyssenkrupp Uhde India Pvt. Ltd. on an RCG\nloop in Innovation Pavilion, organised by the Ministry of Chemicals and Fertilizers."
+    },
+    {
+      "role": "assistant",
+      "content": {
+        "name": "Jayesh Krishna",
+        "email": "210020058@iitb.ac.in",
+        "skills": [
+          "HTML",
+          "C++",
+          "Python",
+          "MATLAB",
+          "Excel",
+          "Powerpoint",
+          "Word",
+          "VASP",
+          "Fortran",
+          "AutoCAD",
+          "OpenFOAM"
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Technology (B.Tech.) in Chemical Engineering",
+            "university": "Indian Institute of Technology Bombay",
+            "duration": "2021 – 2025",
+            "location": "Mumbai, India"
+          }
+        ],
+        "experience": [
+          {
+            "title": "Product Intern",
+            "company": "ZENNiX",
+            "location": "",
+            "duration": "Feb 2024 – Mar 2024",
+            "highlights": [
+              "Spearheaded market research, identified top-tier manufacturers, resulting in a 20% increase in product quality assurance",
+              "Identified over 60 trending products and furnished detailed reports that led to increase in the selection efficiency by 2%",
+              "Optimized e-commerce product selection leading to 5% reduction in time-to-market and a 7% decrease in sourcing costs"
+            ]
+          },
+          {
+            "title": "Process Engineer",
+            "company": "Oil and Natural Gas Corporation Ltd.",
+            "location": "",
+            "duration": "Dec 2023 – Jan 2024",
+            "highlights": [
+              "Evaluated the application of Predictive Analysis-based maintenance solutions and monitored sensors to identify faults",
+              "Conducted on-site visits, ensured zero false negatives and achieved a 75%+ accuracy in Root Cause Failure Analysis",
+              "Proposed measures to enhance operational efficiency and prepared detailed report on the key performance indicators"
+            ]
+          },
+          {
+            "title": "Business Development Intern",
+            "company": "ZigSaw",
+            "location": "",
+            "duration": "Dec 2022 – Jan 2023",
+            "highlights": [
+              "Partnered closely with the founder’s office for business planning resulting in notable 20% increase in conversion rates",
+              "Participated in team meetings, contributed innovative ideas and strategic insights that generated a 7% growth trajectory",
+              "Implemented market research within lead generation processes, facilitating a 3% expansion in the company’s client base"
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "name": "Stock Market Analysis",
+            "role": "Fin-Search | Finance Club",
+            "duration": "July 2023 – Aug 2023",
+            "highlights": [
+              "Examined factors behind the Vodafone-Idea merger decline, and identified causes that led to a loss in the market share",
+              "Assessed Spice Jet's revival from bankruptcy and examined Facebook's acquisitions and their impact on the valuations"
+            ]
+          },
+          {
+            "name": "Technical vs Fundamental Analysis",
+            "role": "Fin-Search | Finance Club",
+            "duration": "June 2022 – July 2022",
+            "highlights": [
+              "Examined the profitability of technical and fundamental analysis on the stock price of JSW Steel in different timezones",
+              "Concluded the stock price to be undervalued with a discount of 7.4% by estimating the intrinsic value using DCF analysis"
+            ]
+          },
+          {
+            "name": "ML Based Screening of Alloy Catalysts",
+            "role": "Guide: Prof. Ojus Mohan",
+            "duration": "Aug 2023 – Present",
+            "highlights": [
+              "Developing a novel ML algorithm to enhance high-entropy alloy catalysts for selective CO2 hydrogenation to methanol",
+              "Performing data analysis, multiscale modeling, feature engineering, and micro-kinetics to enhance catalyst prediction"
+            ]
+          },
+          {
+            "name": "Supply Chain Optimisation through ML Models",
+            "role": "Seasons of Code",
+            "duration": "Dec 2023 – Present",
+            "highlights": [
+              "Applied ML and advanced Pyomo models to optimize key supply chain sectors and achieved substantial cost reduction",
+              "Solved intricate optimization problems, improved supply chain performance in all 4 modes of transport of raw material"
+            ]
+          },
+          {
+            "name": "Image Cartoonifier",
+            "role": "Seasons of Code",
+            "duration": "May 2023 – July 2023",
+            "highlights": [
+              "Implemented TensorFlow and Keras for neural network, applied ML algorithms for image processing with OpenCV/GIMP"
+            ]
+          }
+        ],
+        "award": [
+          "Attained 98.6 percentile in JEE Advanced among 0.15M+ and 99.66 percentile in JEE Main out of 1.2M+ applicants [‘21]",
+          "Secured 2nd rank by presenting development alternatives on 'Make in India' at Indian Institute of Geomagnetism [‘19]"
+        ],
+        "publications": [],
+        "miscellaneous": [
+          "Phone: +91 8291174256",
+          "Location: Mumbai, India"
+        ]
+      }
+    }
+  ]
+}
