@@ -1,0 +1,63 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "EMAIL: samruddhivalvi10@gmail.com\nPHONE: +91 8424040873\n\nFULL RESUME:\nSAMRUDDHI VALVI\nsamruddhivalvi10@gmail.com | +91 8424040873 | Kalyan, Dist. Thane\nhttps://www.linkedin.com/in/samruddhi-valvi-957965208?utm_source=share&utm_camp\naign=share_via&utm_content=profile&utm_medium=android_app\nEXPERIENCE\nMars Exploration Pvt. Ltd\nHuman Resources Intern [2 months]\n● Assisted in recruitment processes, including job posting, resume screening, and\ninterview scheduling\n● Helped maintain employee records and HR documentation.\n● Gained experience in remote working and team collaboration\nEDUCATION\nMulund College of Commerce (Autonomous), [May, 2024]\nBachelor of Management Studies - Grade A\nMulund College of Commerce [July, 2021]\nHSC\nG.E.I’s Subhedar Wada High School, Kalyan [June, 2019]\nSSC\nOTHER\nSkills - MS Office, Good Communication, Problem-solving, Quick Learner, HRM.\nCertifications -Human Resource Management, Product Management, Unleash Your\nPotential, Social Media Marketing, MSCIT\nLanguages - English (fluent, Marathi (native), Hindi (fluent)"
+    },
+    {
+      "role": "assistant",
+      "content": {
+        "name": "SAMRUDDHI VALVI",
+        "email": "samruddhivalvi10@gmail.com",
+        "skills": [
+          "MS Office",
+          "Good Communication",
+          "Problem-solving",
+          "Quick Learner",
+          "HRM"
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Management Studies",
+            "university": "Mulund College of Commerce (Autonomous)",
+            "duration": "May 2024",
+            "location": "Thane, India"
+          },
+          {
+            "degree": "HSC",
+            "university": "Mulund College of Commerce",
+            "duration": "July 2021",
+            "location": "Thane, India"
+          },
+          {
+            "degree": "SSC",
+            "university": "G.E.I’s Subhedar Wada High School",
+            "duration": "June 2019",
+            "location": "Kalyan, India"
+          }
+        ],
+        "experience": [
+          {
+            "title": "Human Resources Intern",
+            "company": "Mars Exploration Pvt. Ltd",
+            "location": "Thane, India",
+            "duration": "2 months",
+            "highlights": [
+              "Assisted in recruitment processes, including job posting, resume screening, and interview scheduling",
+              "Helped maintain employee records and HR documentation",
+              "Gained experience in remote working and team collaboration"
+            ]
+          }
+        ],
+        "projects": [],
+        "award": [],
+        "publications": [],
+        "miscellaneous": [
+          "Phone: +91 8424040873",
+          "Location: Kalyan, Dist. Thane",
+          "LinkedIn: https://www.linkedin.com/in/samruddhi-valvi-957965208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+        ]
+      }
+    }
+  ]
+}

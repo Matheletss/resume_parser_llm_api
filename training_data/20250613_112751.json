@@ -1,0 +1,123 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "NAME: Sagar Thakur\nEMAIL: sagarthakur4312@gmail.com\nPHONE: +917317440237\n\nFULL RESUME:\nSagar Thakur Email: sagarthakur4312@gmail.com\nLinkedIn: sagar-thakur-223829259 Mobile: :+917317440237\nGithub: https://github.com/Matheletss\nEducation\n• Birla Institute of Technology Mesra Ranchi, India\nIntegrated Master’s of Science - Mathematics & Computing 2022 - 2027 (Ongoing)\n• Lucknow Public School Lucknow, India\nCBSE - 12th Board; 92.2% 2022\n• Lucknow Public School Lucknow, India\nCBSE - 10th Board; 92.6% 2020\nExperience\n• The Linux Foundation India\nResearch Intern May 2024 - Current\no Worked on AI/ML use cases for Network Function Virtualization(NFV), focusing on optimizing and automating\nnetwork operations.\no Contributed to the Anuket project on data anonymization research, developing and evaluating techniques to protect\nsensitive information while maintaining data utility.\no Used autoencoders to anonymize time-series and telecom data for secure classification, preserving privacy with\nminimal impact on model performance.\n• Chegg India India\nSubject Matter Expert Feb 2023 - Oct 2023\no Provided expert insights and guidance on statistical concepts and methodologies. Answered complex queries from\nstudents and educators, offering detailed explanations.\no Created solutions and instructional materials tailored to enhance learning outcomes. Contributed to the development of\nhigh-quality resources for statistics education\nPROJECTS/RESEARCH WORK\n•\nPaddy Disease Classification\no Developed a machine learning model utilizing Convolutional Neural Networks (CNN) to accurately classify diseases\nin paddy crops, enhancing disease detection and agricultural management.\n• AI Interview Platform\no Created an AI-powered interview practice platform that simulates mock interviews, providing users with real-time\nfeedback and improving their interview preparation.\n•\nApplication of Autoencoders for Anonymizing Telecom Data:\no A framework that applies autoencoders to anonymize telecommunication data (IP addresses, call detail records\n(CDRs), serial numbers, and personal data, etc.) . The key contribution of this work was turning personally\nidentifiable information (PII) into anonymized data for research to allow release of valuable data to public while\nfollowing privacy and security procedures.\n•\nMulti-Objective Optimization of Tourist Carrying Capacity Using the Heuristic Approach\no This work proposed a multi-objective optimization framework applying NSGA-II to tourist carrying capacity\n(TCC) evaluation. Unlike traditional evaluation methods, this framework optimizes environment, economy, social,\nand infrastructure in a sustainable adaptive and efficient way. Destination managers could use this framework to\nhelp solve complex, multi-dimensional problems in a sustainable fashion. This work Abstract is provisionally\naccepted for book titled 'Decision Analytics for Tourism Planning and Management'\nLeadership & Volunteer Experience\n• Serving as the Vice President - Outreach for the Society for Data Science at BIT Mesra, I led and managed strategic initiatives\nto strengthen the community's engagement and outreach. I played a pivotal role in organizing and executing eastern India’s\nlargest Data Science Summits in both 2023 and 2024.\n•\nThese high-impact events attracted a diverse audience, including industry experts, academic professionals, and data\nscience enthusiasts, fostering a collaborative environment for knowledge sharing, skill development, and networking. My\nleadership involved coordinating with industry partners, securing sponsorships, and managing large-scale event logistics\nto ensure the success of these summits.\nSkills\n• General: Python, C/C++, Java, SQL, Docker, Git/GitHub\n• Web Technologies: HTML/CSS\n• Data Science & ML: TensorFlow/Keras, PyTorch, Scikit-Learn, TensorRT, R, Autoencoders, Supervised Learning, Unsupervised\nLearning, Feature Engineering, Natural Language Processing, Model Evaluation & Tuning, Data\nPreprocessing, and Ensemble Methods."
+    },
+    {
+      "role": "assistant",
+      "content": {
+        "name": "Sagar Thakur",
+        "email": "sagarthakur4312@gmail.com",
+        "skills": [
+          "Python",
+          "C/C++",
+          "Java",
+          "SQL",
+          "Docker",
+          "Git/GitHub",
+          "HTML/CSS",
+          "TensorFlow/Keras",
+          "PyTorch",
+          "Scikit-Learn",
+          "TensorRT",
+          "R",
+          "Autoencoders",
+          "Supervised Learning",
+          "Unsupervised Learning",
+          "Feature Engineering",
+          "Natural Language Processing",
+          "Model Evaluation & Tuning",
+          "Data Preprocessing",
+          "Ensemble Methods"
+        ],
+        "education": [
+          {
+            "degree": "Integrated Master’s of Science - Mathematics & Computing",
+            "university": "Birla Institute of Technology",
+            "duration": "2022 - 2027 (Ongoing)",
+            "location": "Ranchi, India"
+          },
+          {
+            "degree": "CBSE - 12th Board",
+            "university": "Lucknow Public School",
+            "duration": "2022",
+            "location": "Lucknow, India"
+          },
+          {
+            "degree": "CBSE - 10th Board",
+            "university": "Lucknow Public School",
+            "duration": "2020",
+            "location": "Lucknow, India"
+          }
+        ],
+        "experience": [
+          {
+            "title": "Research Intern",
+            "company": "The Linux Foundation",
+            "location": "India",
+            "duration": "May 2024 - Current",
+            "highlights": [
+              "Worked on AI/ML use cases for Network Function Virtualization (NFV), focusing on optimizing and automating network operations.",
+              "Contributed to the Anuket project on data anonymization research, developing and evaluating techniques to protect sensitive information while maintaining data utility.",
+              "Used autoencoders to anonymize time-series and telecom data for secure classification, preserving privacy with minimal impact on model performance."
+            ]
+          },
+          {
+            "title": "Subject Matter Expert",
+            "company": "Chegg India",
+            "location": "India",
+            "duration": "Feb 2023 - Oct 2023",
+            "highlights": [
+              "Provided expert insights and guidance on statistical concepts and methodologies.",
+              "Answered complex queries from students and educators, offering detailed explanations.",
+              "Created solutions and instructional materials tailored to enhance learning outcomes."
+            ]
+          }
+        ],
+        "projects": [
+          {
+            "name": "Paddy Disease Classification",
+            "role": "",
+            "highlights": [
+              "Developed a machine learning model utilizing Convolutional Neural Networks (CNN) to accurately classify diseases in paddy crops, enhancing disease detection and agricultural management."
+            ]
+          },
+          {
+            "name": "AI Interview Platform",
+            "role": "",
+            "highlights": [
+              "Created an AI-powered interview practice platform that simulates mock interviews, providing users with real-time feedback and improving their interview preparation."
+            ]
+          },
+          {
+            "name": "Application of Autoencoders for Anonymizing Telecom Data",
+            "role": "",
+            "highlights": [
+              "Developed a framework that applies autoencoders to anonymize telecommunication data, turning personally identifiable information (PII) into anonymized data for research."
+            ]
+          },
+          {
+            "name": "Multi-Objective Optimization of Tourist Carrying Capacity Using the Heuristic Approach",
+            "role": "",
+            "highlights": [
+              "Proposed a multi-objective optimization framework applying NSGA-II to tourist carrying capacity evaluation, optimizing environment, economy, social, and infrastructure."
+            ]
+          }
+        ],
+        "award": [],
+        "publications": [
+          {
+            "title": "Abstract provisionally accepted for book titled 'Decision Analytics for Tourism Planning and Management'",
+            "details": "Multi-Objective Optimization of Tourist Carrying Capacity Using the Heuristic Approach"
+          }
+        ],
+        "miscellaneous": [
+          "Phone: +917317440237",
+          "LinkedIn: https://www.linkedin.com/in/sagar-thakur-223829259",
+          "Github: https://github.com/Matheletss"
+        ]
+      }
+    }
+  ]
+}

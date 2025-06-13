@@ -1,0 +1,70 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "NAME: Mansi Advilkar\nEMAIL: mansiadvilkar123@gmail.com\nPHONE: 400601\n9193243368\n\nFULL RESUME:\nMansi Advilkar\nThane (W.)400601\n919324336847 | mansiadvilkar123@gmail.com\nObjective\nMotivated recent graduate in HR with an intrest in operation management. Desire to improve employee\nengagement support HR processes and help with talent purchasing. Strong team player and communicator who\nis prepared to add a great work environment and assist in coordinating human resources processes with\ncompany goals.\nExperience\nSystemXs.ai 10-jun-2024 - 10-Nov-2024\nHr intern\n- End-to-End Recruitment Management: Led the recruitment process from start to finish, including creating and\nposting job advertisements, reviewing resumes, conducting telephonic and in-person interviews, and assisting\nin candidate selection.\n- Onboarding & Documentation: Managed various aspects of the onboarding process, including preparing\nappointment letters, handling joining formalities, and coordinating Provident Fund (PF) documentation with\nexternal consultants.\nInduction & New Hire Integration: Supported the smooth onboarding of new employees by assisting in the\ncoordination and execution of induction programs, ensuring a positive first impression and quick integration\ninto the company culture.\n- HR Administration Support: Provided key administrative support to senior HR professionals, including\ndocument preparation, maintaining HR files, and managing workflow to ensure seamless HR operations.\n- Employee Engagement Initiatives: Contributed to the organization of employee engagement activities and\nevents, fostering a positive and inclusive work environment and supporting employee morale and retention.\n- Recruitment Data & Reporting: Assisted in tracking and reporting key recruitment metrics, including time-to-\nhire and source of hire, providing insights for process improvements.\nEducation\nShiv samarath vidyalaya 2019\nSSC\n71%\nSheth NKTT college 2021\nHSC\n73.33\nSheth NKTT college 2024\nGraduation - BMS (HR)\nCGPI 6.45\nSkills\nFull-Cycle Recruitment & Talent Acquisition\nResume Screening & interviewing\nOnboarding & Induction programs\nEmployee engagement & Event coordination\nHR Administration & Document Management\nStrong Communication & Interpersonal skills\nHR system & Software knowledge\nPersonal Details\nDate of birth - 4 October 2003\nGender - female\nKnow Language - Marathi,Hindi,English"
+    },
+    {
+      "role": "assistant",
+      "content": {
+        "name": "Mansi Advilkar",
+        "email": "mansiadvilkar123@gmail.com",
+        "skills": [
+          "Full-Cycle Recruitment & Talent Acquisition",
+          "Resume Screening & Interviewing",
+          "Onboarding & Induction Programs",
+          "Employee Engagement & Event Coordination",
+          "HR Administration & Document Management",
+          "Strong Communication & Interpersonal Skills",
+          "HR System & Software Knowledge"
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Management Studies (HR)",
+            "university": "Sheth NKTT College",
+            "duration": "2021 – 2024",
+            "location": "Thane, India"
+          },
+          {
+            "degree": "Higher Secondary Certificate (HSC)",
+            "university": "Sheth NKTT College",
+            "duration": "2019",
+            "location": "Thane, India"
+          },
+          {
+            "degree": "Secondary School Certificate (SSC)",
+            "university": "Shiv Samarath Vidyalaya",
+            "duration": "2019",
+            "location": "Thane, India"
+          }
+        ],
+        "experience": [
+          {
+            "title": "HR Intern",
+            "company": "SystemXs.ai",
+            "location": "Thane, India",
+            "duration": "June 2024 – November 2024",
+            "highlights": [
+              "Led the recruitment process from start to finish, including creating and posting job advertisements, reviewing resumes, conducting telephonic and in-person interviews, and assisting in candidate selection.",
+              "Managed various aspects of the onboarding process, including preparing appointment letters, handling joining formalities, and coordinating Provident Fund (PF) documentation with external consultants.",
+              "Supported the smooth onboarding of new employees by assisting in the coordination and execution of induction programs.",
+              "Provided key administrative support to senior HR professionals, including document preparation and maintaining HR files.",
+              "Contributed to the organization of employee engagement activities and events.",
+              "Assisted in tracking and reporting key recruitment metrics, providing insights for process improvements."
+            ]
+          }
+        ],
+        "projects": [],
+        "award": [],
+        "publications": [],
+        "miscellaneous": [
+          "Phone: 919324336847",
+          "Location: Thane (W.), India",
+          "Date of Birth: 4 October 2003",
+          "Gender: Female",
+          "Languages: Marathi, Hindi, English"
+        ]
+      }
+    }
+  ]
+}
